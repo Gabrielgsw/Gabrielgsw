@@ -1,5 +1,5 @@
 ## 👋 Hello! Welcome to my Github profile :grin:.
-## My name is Gabriel Germano and my nickname is Gabrielgsw :grinning:!<br> 
+## My name is Gabriel Wanderley and my nickname is Gabrielgsw :grinning:!<br> 
 
 ## I study Computer Science at UFRPE and i like to study about new technologies and programming !<br>
   
