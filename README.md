@@ -1,6 +1,6 @@
 ## 👋 Hello! Welcome to my Github profile :grin:.
 ## My name is Gabriel Wanderley and my nickname is Gabrielgsw :grinning:!<br> 
-
+## Currently i'm a intern at Integre.me in systems development
 ## I study Computer Science at UFRPE and i like to study about new technologies and programming !<br>
   
   
