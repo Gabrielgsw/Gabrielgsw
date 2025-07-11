@@ -1,6 +1,6 @@
 ## 👋 Hello! Welcome to my Github profile :grin:.
 ## My name is Gabriel Wanderley and my nickname is Gabrielgsw :grinning:!<br> 
-## Currently i'm a systems analyst at Integre.me 
+## Currently i'm a Salesforce analyst at Integre.me 
 ## I study Computer Science at UFRPE and i like to study about new technologies and programming !<br>
   
   
