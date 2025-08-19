@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">👋 Olá, eu sou o Gabriel Wanderley!</h1>
+<h1 align="center">👋 Olá, me chamo Gabriel Wanderley!</h1>
 <h3 align="center">Software Developer | Estudante de Ciência da Computação | Apaixonado por tecnologia</h3>
 
 ---
