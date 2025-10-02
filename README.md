@@ -5,7 +5,6 @@
 ---
 
 ## 👨‍💻 Sobre mim
-- 🔭 Atualmente trabalho como **Salesforce Analyst** na **Integre.me**  
 - 🎓 Estudante de **Ciência da Computação** na **UFRPE**  
 
 ---
