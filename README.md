@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Apex-1798c1.svg?style=flat&logo=salesforce&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54" />
