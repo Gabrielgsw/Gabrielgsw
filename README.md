@@ -5,7 +5,8 @@
 ---
 
 ## 👨‍💻 Sobre mim
-- 🎓 Estudante de **Ciência da Computação** na **UFRPE**  
+- 🎓 Estudante de **Ciência da Computação** na **UFRPE**
+- 🚀 Possuo experiência em desenvolvimento Salesforce e Java. 
 
 ---
 
@@ -18,6 +19,15 @@
   <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54" />
+</p>
+
+**Databases:**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat&logo=firebase&logoColor=black" />
+ 
 </p>
 
 **Frameworks & Ferramentas:**  
@@ -29,8 +39,7 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=flat&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat&logo=firebase&logoColor=black" />
+  
   <img src="https://img.shields.io/badge/n8n-EA4C89.svg?style=flat&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/ClickUp-7B68EE.svg?style=flat&logo=clickup&logoColor=white" />
