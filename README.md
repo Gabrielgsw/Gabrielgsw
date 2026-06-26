@@ -35,9 +35,7 @@
   <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" />  
   <img src="https://img.shields.io/badge/Salesforce-00A1E0.svg?style=flat&logo=salesforce&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=flat&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000.svg?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=flat&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000.svg?style=flat&logo=express&logoColor=white" />  
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=node.js&logoColor=white" />
   
   <img src="https://img.shields.io/badge/n8n-EA4C89.svg?style=flat&logo=n8n&logoColor=white" />
