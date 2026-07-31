@@ -6,7 +6,8 @@
 
 ## 👨‍💻 Sobre mim
 - 🎓 Estudante de **Ciência da Computação** na **UFRPE**
-- 🚀 Possuo experiência em desenvolvimento Salesforce e Java. 
+- 🚀 Possuo experiência em Java, React e Salesforce.
+- Atualmente trabalho como Desenvolvedor Full-Stack na RecrutaEasy. 
 
 ---
 
