@@ -6,55 +6,41 @@
 
 ## 👨‍💻 Sobre mim
 - 🎓 Estudante de **Ciência da Computação** na **UFRPE**
-- 🚀 Possuo experiência em Java, React e Salesforce.
-- Atualmente trabalho como Desenvolvedor Full-Stack na RecrutaEasy. 
+- 🚀 Atualmente trabalho como Desenvolvedor Full-Stack na RecrutaEasy e pesquisador bolsista pela FACEPE. 
 
 ---
 
+
 ## 🛠️ Tecnologias & Ferramentas
-**Linguagens:**  
+
+**Back-End:**
 <p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apex-1798c1.svg?style=flat&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
-  <!--<img src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="25px">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" height="25px">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" height="25px">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="25px">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="25px">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" height="25px">
 </p>
 
-**Databases:**
+**Front-End:**
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white" /> 
-   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat&logo=firebase&logoColor=black" />
- 
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="25px">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="25px">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="25px">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="25px">
+  <img src="https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJs" height="25px">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="25px">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" height="25px">
 </p>
 
-**Frameworks & Ferramentas:**  
+**Database:**
 <p>
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0.svg?style=flat&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=flat&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000.svg?style=flat&logo=express&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=node.js&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/n8n-EA4C89.svg?style=flat&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/ClickUp-7B68EE.svg?style=flat&logo=clickup&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=flat&logo=insomnia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="25px">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="25px">
 </p>
 
-**Frontend:**  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white" />
-</p> 
+
 
 ---
 
